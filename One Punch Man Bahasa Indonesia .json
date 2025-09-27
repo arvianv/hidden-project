@@ -4,38 +4,5 @@
   "artist": "Yusuke Murata",
   "author": "ONE",
   "cover": "",
-  "chapters": {
-    "215": {
-      "title": "215: Siapa Dirimu",
-      "volume": "",
-      "last_updated": "1758980477",
-      "groups": {
-        "ArvianV": [
-          "https://imgbox.com/QHsLXrx1",
-          "https://imgbox.com/muOKoVFj",
-          "https://imgbox.com/InLetye7",
-          "https://imgbox.com/b3wUNovu",
-          "https://imgbox.com/69yfM1od",
-          "https://imgbox.com/ePvNTbMX",
-          "https://imgbox.com/NTras9Vo",
-          "https://imgbox.com/FBWp00wn",
-          "https://imgbox.com/bsbEfjI8",
-          "https://imgbox.com/X2buA3sL",
-          "https://imgbox.com/A3aVLLT4",
-          "https://imgbox.com/sQlH9vZ3",
-          "https://imgbox.com/jXmXzMKH",
-          "https://imgbox.com/2rUuq7aS",
-          "https://imgbox.com/YQm3mWAt",
-          "https://imgbox.com/GedwjUnd",
-          "https://imgbox.com/L13T25Q5",
-          "https://imgbox.com/7RL26p8z",
-          "https://imgbox.com/G0jLvpY5",
-          "https://imgbox.com/sX4AhGGV",
-          "https://imgbox.com/ghSFkcNa",
-          "https://imgbox.com/lUzK2Cwk",
-          "https://imgbox.com/wL3VZd9Q"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
