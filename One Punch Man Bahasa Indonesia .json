@@ -4,5 +4,16 @@
   "artist": "Yusuke Murata",
   "author": "ONE",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "215": {
+      "title": "215",
+      "volume": "",
+      "last_updated": "1758982602",
+      "groups": {
+        "": [
+          "https://imgur.com/a/I12AX1O"
+        ]
+      }
+    }
+  }
 }
