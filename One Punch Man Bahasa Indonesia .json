@@ -477,6 +477,14 @@
         "ArvianV": "/proxy/api/imgchest/chapter/vj4je9ab278"
       }
     },
+    "96": {
+      "title": "96",
+      "volume": "",
+      "last_updated": "1765026847",
+      "groups": {
+        "ArvianV": "/proxy/api/imgchest/chapter/ne7b625vny5"
+      }
+    },
     "97": {
       "title": "Tas Ransel",
       "volume": "",
@@ -947,6 +955,14 @@
       "last_updated": "1764688798",
       "groups": {
         "ArvianV": "/proxy/api/imgchest/chapter/vj4jerz8978"
+      }
+    },
+    "220": {
+      "title": "Promosi Besar",
+      "volume": "",
+      "last_updated": "1765026873",
+      "groups": {
+        "ArvianV": "/proxy/api/imgchest/chapter/6eyrnxv8e7p"
       }
     }
   }
